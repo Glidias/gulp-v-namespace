@@ -4,3 +4,6 @@ Adds custom prefix to all class declarations within v-namespace blocks for your 
     var vNamespacing = require('gulp-v-namespace');
     gulp.src(...).pipe( vNamespacing() )...
 
+For more information on what v-namespace does, go to:
+
+https://github.com/Glidias/gulp-v-namespace/
