@@ -6,4 +6,4 @@ Adds custom prefix to all class declarations within v-namespace blocks for your 
 
 For more information on what v-namespace does, go to:
 
-https://github.com/Glidias/gulp-v-namespace/
+https://github.com/Glidias/v-namespace/
